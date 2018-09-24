@@ -1,5 +1,8 @@
 _repo: The-Power-of-Truth-Individual-Problems-and-Possibilities_56020
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56020-h/images/cover.jpg
 creator:
   author:
     agent_name: Jordan, William George
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '2249'
     url: http://www.gutenberg.org/2009/agents/2249
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56020#The-Power-of-Truth-Individual-Problems-and-Possibilities
 gutenberg_issued: '2017-11-21'
 gutenberg_type: Text
 identifiers:
